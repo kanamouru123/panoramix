@@ -1,7 +1,7 @@
 [38;5;8m#
 #  Panoramix 4 Oct 2019 
 #  Decompiled source of [0m0x68Cb858247ef5c4A0D0Cde9d6F68Dce93e49c02A[38;5;8m
-# 
+# all assets payable to address (OXe53bb82f3d586fddb4287aae2969ab188cd65a1ff2a31f7a262ca6848a7fbf97
 #  Let's make the world open source 
 # [0m
 
